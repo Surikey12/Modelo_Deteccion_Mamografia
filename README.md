@@ -15,5 +15,6 @@ Este proyecto utiliza un dataset descargado desde Kaggle, por lo que es necesari
 Pasos: 
 - Crear cuenta en Kaggle
 - Ir a Setting -> API -> Crear New Token
-- Se descarga el archivo kaggle.json
+- Se descarga el archivo kaggle.json.
+## 
 El archivo es personal y no se incluye en este repositorio por motivos de seguridad.
