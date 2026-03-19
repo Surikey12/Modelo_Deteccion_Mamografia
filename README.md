@@ -11,7 +11,7 @@ from tensorflow.keras.models import load_model
 model = load_model("modelo.h5")
 
 ## Requisitos para ejecutar el proyecto
-Este proeycto utiliza un dataset descargado desde Kaggle, por lo que es necesario contar con el archivo kaggle.json para la autenticación
+Este proyecto utiliza un dataset descargado desde Kaggle, por lo que es necesario contar con el archivo kaggle.json para la autenticación
 Pasos: 
 - Crear cuenta en Kaggle
 - Ir a Setting -> API -> Crear New Token
